@@ -9,3 +9,5 @@ Sites:
 - [MyMiniFactory](https://www.myminifactory.com)
 
     Example: https://www.myminifactory.com/api/v2/search?q=&page=1&per_page=20
+
+- [Yeggi](https://www.yeggi.com)
