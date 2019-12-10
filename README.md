@@ -11,3 +11,7 @@ Sites:
     Example: https://www.myminifactory.com/api/v2/search?q=&page=1&per_page=20
 
 - [Yeggi](https://www.yeggi.com)
+
+- [3D Warehouse](https://3dwarehouse.sketchup.com)
+- [GrabCad](https://grabcad.com/library)
+- [Cgtrader](https://www.cgtrader.com)
