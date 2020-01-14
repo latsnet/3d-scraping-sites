@@ -29,7 +29,7 @@ class ScrapThingiverse(ScrapingEngine):
 
     def load_pages(self):
         page = 1
-        while (page < 10):
+        while (page < 37627):
             url = self.get_url_page(page)
             print("Loading %s" % (url))
             html = super(ScrapThingiverse, self).get_page_content(url)
