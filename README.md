@@ -17,3 +17,16 @@ Sites:
 Search Engines:
 
 - [Yeggi](https://www.yeggi.com)
+
+# Relevant Informations:
+
+- Title
+- Description
+- URL
+- Free / Comercial
+- WebSite
+- Scraping Date
+- Validation Date
+- Licenses
+- Tags
+- Pictures
